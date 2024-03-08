@@ -1,8 +1,5 @@
 # Pathloss Prediction With Satellite Image
 
-
-
-
 ## Background
 
 Radio wave propagation in dense urban areas is extremely susceptible to environmental influences, and path loss is easily affected by the surrounding ground environment and fluctuates greatly. An enhanced pathloss prediction method is explored using digital and satellite maps.
@@ -19,7 +16,7 @@ The fitting results by 'log' of the four cities are shown in the figure above. T
 
 <div align="center">
 <img src="https://github.com/zhaozhang101/Pathloss-Prediction-with-Satellite-Image/assets/71812547/baa4d1ce-42e7-44f2-9f3d-b4d0cdf94203" width="600px"></div>
-The performance of fitting/predicting using different methods is shown in the figure above. For the ANN method, input information includes the cell index, the azimuth angle of the receiver relative to the base station, and the distance between the receiver and the base station. Note that adding satellite images has limited improvement in the results. This may be due to the following reasons: 
+The performance of fitting/prediction of different methods is shown in the figure above. For the ANN method, input information includes the cell index, the azimuth angle of the receiver relative to the base station, and the distance between the receiver and the base station. Note that adding satellite images has limited improvement in the results. This may be due to the following reasons: 
 
 • The resolution of satellite images is too low to give detailed information. 
 
