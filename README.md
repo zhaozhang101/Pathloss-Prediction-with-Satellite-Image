@@ -20,6 +20,7 @@ The fitting results by 'log' of the four cities are shown in the figure above. T
 <div align="center">
 <img src="https://github.com/zhaozhang101/Pathloss-Prediction-with-Satellite-Image/assets/71812547/baa4d1ce-42e7-44f2-9f3d-b4d0cdf94203" width="600px"></div>
 The performance of fitting/predicting using different methods is shown in the figure above. For the ANN method, input information includes the cell index, the azimuth angle of the receiver relative to the base station, and the distance between the receiver and the base station. Note that adding satellite images has limited improvement in the results. This may be due to the following reasons: 
+
 1. The resolution of satellite images is too low to give detailed information.
 2. The method of encoding satellite images needs to be improved, especially for longer Tx-Rx link distances, crucial information could be lost using the 'image-resize' approach.
 3. The original measurement data contains noise due to general small-scale fading which means low data quality.
