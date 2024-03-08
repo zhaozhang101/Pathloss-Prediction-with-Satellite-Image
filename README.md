@@ -22,7 +22,9 @@ The fitting results by 'log' of the four cities are shown in the figure above. T
 The performance of fitting/predicting using different methods is shown in the figure above. For the ANN method, input information includes the cell index, the azimuth angle of the receiver relative to the base station, and the distance between the receiver and the base station. Note that adding satellite images has limited improvement in the results. This may be due to the following reasons: 
 
 • The resolution of satellite images is too low to give detailed information. 
+
 • The method of encoding satellite images needs to be improved, especially for longer Tx-Rx link distances, crucial information could be lost using the 'image-resize' approach.
+
 • The original measurement data contains noise due to general small-scale fading which means low data quality.
 
 ## Install
