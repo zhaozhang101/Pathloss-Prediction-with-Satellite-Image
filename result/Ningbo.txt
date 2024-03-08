@@ -1,0 +1,43 @@
+learning rate: 0.0001 weight decay: 0.0001
+====================================================
+Training complete in 0m 42s
+LOSS_ME in epoch0 is: -0.6352936029434204
+LOSS_RMSE in epoch0 is: 3.1023879051208496
+====================================================
+Training complete in 1m 24s
+LOSS_ME in epoch1 is: -0.6062940955162048
+LOSS_RMSE in epoch1 is: 3.060864210128784
+====================================================
+Training complete in 2m 6s
+LOSS_ME in epoch2 is: -0.5304023623466492
+LOSS_RMSE in epoch2 is: 3.053748846054077
+====================================================
+Training complete in 2m 50s
+LOSS_ME in epoch3 is: -0.506434440612793
+LOSS_RMSE in epoch3 is: 3.0490942001342773
+====================================================
+Training complete in 3m 34s
+LOSS_ME in epoch4 is: -0.5115573406219482
+LOSS_RMSE in epoch4 is: 3.045652389526367
+====================================================
+Training complete in 4m 19s
+LOSS_ME in epoch5 is: -0.467963844537735
+LOSS_RMSE in epoch5 is: 3.0444464683532715
+====================================================
+Training complete in 5m 0s
+LOSS_ME in epoch6 is: -0.48962321877479553
+LOSS_RMSE in epoch6 is: 3.0424463748931885
+====================================================
+Training complete in 5m 42s
+LOSS_ME in epoch7 is: -0.4752357304096222
+LOSS_RMSE in epoch7 is: 3.042137384414673
+====================================================
+Training complete in 6m 27s
+LOSS_ME in epoch8 is: -0.4388920068740845
+LOSS_RMSE in epoch8 is: 3.0407586097717285
+====================================================
+Training complete in 7m 12s
+LOSS_ME in epoch9 is: -0.5102652907371521
+LOSS_RMSE in epoch9 is: 3.0399153232574463
+==========================test========================
+RMSELoss is:3.053701400756836 MELoss is:-0.055250003933906555
